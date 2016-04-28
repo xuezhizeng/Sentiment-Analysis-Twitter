@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis (incomplete)
+# Twitter Sentiment Analysis
 
 ##NLTK basics
 
@@ -24,10 +24,10 @@ print all_words["stupid"]
 
 ##Approach
 Using 
+* Stochastic Gradient Descent
 * Multinomial Naive Bayes
 * Bernoulli Naive Bayes
 * LogisticRegression
-* Stochastic Gradient Descent
 * Support Vector
 * LinearSVC
 * NuSVC
@@ -37,3 +37,5 @@ _positive1.txt_ includes positive reviews of a movie.
 _negative1.txt_ includes negative reviews of a movie.
 
 Twitter API is used to grab current trending tweets in real-time and use the trained classifiers to mark them as a _'positive'_ or a _'negative'_ sentiment. A graph is hence plotted.
+
+**NOT COMPLETED YET**
