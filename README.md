@@ -39,4 +39,4 @@ _negative1.txt_ includes negative reviews of a movie.
 
 Twitter API is used to grab current trending tweets in real-time and use the trained classifiers to mark them as a _'positive'_ or a _'negative'_ sentiment. A graph is hence plotted.
 
-**NOT COMPLETED YET**
+==NOT COMPLETED YET==
